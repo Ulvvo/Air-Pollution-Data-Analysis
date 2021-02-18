@@ -1,4 +1,5 @@
 # Air-Pollution-Data-Analysis
+Statistical analysis on the primary data collected by PurpleAir Monitors in Hamilton, Ontario during my Work Study term as an Undergraduate Research Assistant in the Department of Geography, Geomatics and Environment at the University of Toronto, under Professor Matthew Adams. The data analysis consists of finding descriptive statistics on the PM2.5 concentrations and finding the correlation between the sensors A and B for each monitor, to assess its reliability. Additionally, there is some bivariate analysis on the effect of environmental parameters like temperature and humidity on the PM2.5 concentration.
 
 # Base code
 Classes_functions.py contains all the base code for all the files: converts CSV files into Data objects for each monitor according to its measured parameters
