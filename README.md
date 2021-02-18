@@ -14,7 +14,7 @@ Correlationfinal.xlsx is an Excel sheet containing all the coefficient data for 
 Correlationformatted.docx contains the formatted coefficients (word table format).
 
 # Bivariate data
-bivariate.py contains matplotlib code used to plot the relationships between temperature, humidity and PM2.5 concentrations.
+bivariate.py contains matplotlib code used to plot the relationships between temperature, humidity and PM2.5 concentrations. Humidity.png and Temperature.png are the figures plotted from the code.
 
 
 
